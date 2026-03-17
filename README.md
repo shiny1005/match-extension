@@ -33,17 +33,6 @@
 
 <br/>
 
-## 📸 Screenshots
-
-<p align="center">
-  <img src="images/popup.png" alt="Extension Popup" width="32%"/>
-  <img src="images/swiping.gif" alt="Auto-swiping in action" width="32%"/>
-  <img src="images/ai-chat.png" alt="AI-generated message example" width="32%"/>
-</p>
-
-<p align="center">
-  <em>Popup controls • Auto-like / dislike demo • Smart AI replies</em>
-</p>
 
 <br/>
 
@@ -51,4 +40,4 @@
 
 1. Download or clone this repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/match-auto-ai.git
+   git clone https://github.com/shiny1005/match-extension.git
